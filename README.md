@@ -1,4 +1,4 @@
-# Fire Incidents During Major Celebrations Project
+# Fire Incidents During Major Events Project
 
 ## Project Background
 As a Data Analyst specialising in public safety, I analysed fire incident data in London spanning 2009 to 2024. The dataset includes details on the date of the incidents, boroughs where they occurred, property types involved, ignition sources, and total incident counts during major events like Diwali, Halloween, Bonfire Night (Guy Fawkes), and Christmas. The objective of this analysis was to uncover trends in fire incidents, identify high-risk boroughs and ignition sources, and provide actionable recommendations to support fire prevention strategies, inform public awareness campaigns, and improve resource allocation.
