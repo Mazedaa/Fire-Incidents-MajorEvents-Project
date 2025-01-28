@@ -27,10 +27,10 @@ By Event:
 
 ### 3. Borough Analysis:
 Top Boroughs (All Events): Tower Hamlets, Westminster, and Southwark consistently had the highest number of incidents.
-Christmas Incidents: 
+- Christmas Incidents: 
   - Tower Hamlets: 455 incidents
   - Westminster: 431 incidents
-Guy Fawkes Incidents:
+- Guy Fawkes Incidents:
   - Tower Hamlets: 636 incidents
   - Newham: 510 incidents
 
@@ -89,8 +89,9 @@ Top 5 Causes:
 - Borough-Level Insights: Socio-economic factors and population density are not included in this analysis but could provide additional context for borough-level trends.
 
 ## Resources
-- See [the original dataset]()
-- See [my cleaning, analysis, and pivot tables]()
-- See [my Google Sheet dashboard]()
-- See [my SQL queries]()
-- See [my Tableau dashboard]()
+- See [the original dataset](https://github.com/Mazedaa/Fire-Incidents-MajorEvents-Project/blob/main/original_fire_events.xlsx%20-%20dataset.csv)
+- See [my cleaning, analysis, and pivot tables](https://github.com/Mazedaa/Fire-Incidents-MajorEvents-Project/blob/main/fire_events_clean.xlsx)
+- See [my Google Sheet dashboard](https://github.com/Mazedaa/Fire-Incidents-MajorEvents-Project/blob/main/GoogleSheetDashboard.png)
+- See [my SQL queries](https://github.com/Mazedaa/Fire-Incidents-MajorEvents-Project/blob/main/fire_incidents_events.sql)
+- See [my Tableau dashboard](https://github.com/Mazedaa/Fire-Incidents-MajorEvents-Project/blob/main/TableauDashboard.png)
+  
